@@ -4,3 +4,8 @@ This project was provided by `Alex The Analyst` on YouTube. The link to this pro
 
 # Objective
 The main goal of this project is to understand how to connect an existing API to extract data and perform analysis. 
+
+# Pre-requisite
+- Your own unique API KEY.
+- To get an API KEY:
+  - Create an account on CoinMarketCap: `https://coinmarketcap.com/`
